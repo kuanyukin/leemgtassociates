@@ -4,8 +4,8 @@
 .mega-menu-css-type {
   content: "standard";
 }
-.mega-menu-last-modified-1747216244 {
-  content: "Wednesday 14th May 2025 09:50:44 UTC";
+.mega-menu-last-modified-1747219469 {
+  content: "Wednesday 14th May 2025 10:44:29 UTC";
 }
 #mega-menu-wrap-max_mega_menu_1, #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1, #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 ul.mega-sub-menu, #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 li.mega-menu-item, #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 li.mega-menu-row, #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 li.mega-menu-column, #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 a.mega-menu-link, #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 span.mega-menu-badge, #mega-menu-wrap-max_mega_menu_1 button.mega-close {
   transition: none;
@@ -84,7 +84,7 @@
   }
 }
 #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 {
-  text-align: left;
+  text-align: right;
   padding: 0px;
 }
 #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 a.mega-menu-link {
@@ -348,9 +348,9 @@
   background: rgba(0, 0, 0, 0);
   border: 0;
   border-radius: 0px;
-  font-family: inherit;
-  font-size: 14px;
-  font-weight: normal;
+  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-size: 28px;
+  font-weight: 300;
   outline: none;
 }
 @media only screen and (min-width: 769px) {
@@ -928,7 +928,7 @@
   text-transform: uppercase;
   text-decoration: none;
   font-weight: bold;
-  text-align: left;
+  text-align: right;
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 5px 0px;
   vertical-align: top;
@@ -947,7 +947,7 @@
   text-transform: uppercase;
   text-decoration: none;
   font-weight: bold;
-  text-align: left;
+  text-align: right;
   margin: 0px 0px 0px 0px;
   padding: 0px;
   vertical-align: top;
@@ -975,7 +975,7 @@
   text-transform: none;
   text-decoration: none;
   font-weight: normal;
-  text-align: left;
+  text-align: right;
   margin: 0px 0px 0px 0px;
   padding: 0px;
   vertical-align: top;
